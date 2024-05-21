@@ -36,4 +36,3 @@ O conteúdo programático inclui:
 6. Processamento de elementos da Web
 7. GUIs
 8. GIT, testes automatizados e revisão
->>>>>>> 1350dce50e5a63dcb07e41921f2bb0ffcd3468b7
